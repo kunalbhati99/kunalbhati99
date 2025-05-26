@@ -23,17 +23,17 @@
 ### 📈 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KunalBhati&show_icons=true&theme=tokyonight&hide_border=false" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunalbhatu&layout=compact&theme=tokyonight&langs_count=6&hide_border=false" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunalbhati&layout=compact&theme=tokyonight&langs_count=6&hide_border=false" height="160"/>
 </div>
 
 ---
 
 ### 🔗 Let's Connect!
 <div align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:kunalbhati2305@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin/">
+  <a href="https://www.linkedin.com/in/kunal-bhati-0814a7145/?trk=opento_sprofile_topcard">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/your-instagram/">
