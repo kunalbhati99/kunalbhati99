@@ -8,13 +8,11 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ1bGJ4dWJ1Y2V4c3F2eWZ4a2x5Z3Z6eW5xZ2N6dGZ1bnB1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="300"/>
 </div>
 
-## 👨‍🎓 About Me
-
 ```python
 class Student:
     def __init__(self):
-        self.name = "Kunal Bhati"
-        self.education = "[Your Degree] at [Your College/University]"
+        self.name = "[Kunal Bhati]"
+        self.education = "[B.Teach] at [UPES]"
         self.interests = ["Programming", "Machine Learning", "Web Development", "Open Source"]
         self.current_goal = "To contribute to meaningful projects and grow as a developer"
         
