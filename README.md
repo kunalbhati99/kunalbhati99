@@ -13,7 +13,7 @@
 ```python
 class Student:
     def __init__(self):
-        self.name = "[Your Full Name]"
+        self.name = "Kunal Bhati"
         self.education = "[Your Degree] at [Your College/University]"
         self.interests = ["Programming", "Machine Learning", "Web Development", "Open Source"]
         self.current_goal = "To contribute to meaningful projects and grow as a developer"
